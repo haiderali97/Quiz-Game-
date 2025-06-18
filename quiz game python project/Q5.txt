@@ -1,0 +1,6 @@
+Q5. Computer ka "brain" kise kaha jata hai?
+
+A. Hard Disk
+B. RAM
+C. CPU
+D. Monitor
